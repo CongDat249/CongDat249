@@ -3,5 +3,4 @@
 <br />
 
 hi, i'm Cong Dat, a computer science student from VietNam 🇻🇳. I am passionate about web development.
-- Currently, I am learning NodeJs 
 
